@@ -6,4 +6,4 @@ tags: ["scene"]
 title: "My first post"
 ---
 
-This website is under construction. Please stay tunes!
+This website is under construction. Please stay tuned!
