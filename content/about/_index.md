@@ -1,10 +1,15 @@
 ---
 title: "About Me"
-description: "I am a PhD student in electrical engineering school at EPFL, Switzerland.
-
-I am interested in machine learning, biomedical engineering and signal and image processing."
+description: "Here you can find some information about me"
 featured_image: ''
 ---
-{{< figure src="/static/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is.
+_Currently, I am a PhD student in electrical engineering school at EPFL._
+
+_I am interested in biomedical engineering, signal processing, image processing, graph theory, connectomics, functional MRI and neuroscience_
+
+_I live in Geneva, Switzerland since 2015._
+
+_I hold a Master in Neuroscience from University of Geneva and a Bachelor in Electrical and Computer Engineering from National Technical University of Athens._
+
+_Also, I am Greek._

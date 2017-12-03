@@ -1,9 +1,9 @@
 ---
-title: "First Post"
-date: 2017-12-03T00:41:28+01:00
-draft: false
+date: 2017-12-02T10:58:08-04:00
+description: "This is my first post"
+featured_image: "/images/welc.jpg"
+tags: ["scene"]
+title: "My first post"
 ---
 
-# Hello!
-
-This is my first post.
+This website is under construction. Please stay tunes!

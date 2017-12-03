@@ -7,4 +7,7 @@ menu:
 
 ---
 
-# Email: serafeim.loukas@epfl.ch
+### Emails:
+
+    serafeim.loukas@epfl.ch
+    seralouk@gmail.ch
