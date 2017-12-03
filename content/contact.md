@@ -10,4 +10,4 @@ menu:
 ### Emails:
 
     serafeim.loukas@epfl.ch
-    seralouk@gmail.ch
+    seralouk@gmail.com
