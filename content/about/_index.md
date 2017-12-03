@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: "About Me"
+description: "I am a PhD student in Electrical engineering school at EPFL, Switzerland. I am interested in _machine learning_, _bioengineering_ and _signal and image processing_."
 featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
