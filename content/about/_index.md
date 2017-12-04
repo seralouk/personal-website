@@ -6,9 +6,9 @@ featured_image: "/images/3.jpg"
 
 _Currently, I am a PhD student in electrical engineering school at EPFL._
 
-_I am interested in biomedical engineering, signal processing, image processing, graph theory, connectomics, functional MRI and neuroscience_
+_I am interested in biomedical engineering, signal and image processing, graph theory, connectomics, functional MRI and neuroscience._
 
-_I live in Geneva, Switzerland since 2015._
+_I live in Geneva, Switzerland since August 2015._
 
 _I hold a Master in Neuroscience from University of Geneva and a Bachelor in Electrical and Computer Engineering from National Technical University of Athens._
 
