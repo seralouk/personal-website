@@ -7,11 +7,6 @@ menu:
 
 ---
 
-**Use this email:**
-
-        seralouk@gmail.com
-
-
-**Or fill in this form:**
+**Please use this form:**
 
 {{< form-contact action="https://formspree.io/seralouk@hotmail.com"  >}}
