@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: "Here you can find some information about me"
-featured_image: ''
+featured_image: 'welc.jpg'
 ---
 
 _Currently, I am a PhD student in electrical engineering school at EPFL._
