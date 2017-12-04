@@ -4,7 +4,6 @@ description: "Here you can find some information about me"
 featured_image: "/images/3.jpg"
 ---
 
-{{< figure src="/static/images/Victor_Hugo-Hunchback.jpg" title="Me" >}}
 
 ---
 
