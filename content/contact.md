@@ -7,7 +7,11 @@ menu:
 
 ---
 
-### Emails:
+**Use this email:**
 
-    serafeim.loukas@epfl.ch
-    seralouk@gmail.com
+        seralouk@gmail.com
+
+
+**Or fill in this form:**
+
+{{< form-contact action="https://example.com"  >}}
