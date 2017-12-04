@@ -14,4 +14,4 @@ menu:
 
 **Or fill in this form:**
 
-{{< form-contact action="https://formspree.io/seralouk@gmail.com"  >}}
+{{< form-contact action="https://formspree.io/seralouk@hotmail.com"  >}}
