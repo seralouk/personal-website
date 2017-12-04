@@ -4,7 +4,10 @@ description: "Here you can find some information about me"
 featured_image: "/images/3.jpg"
 ---
 
-    
+{{< figure src="/static/images/Victor_Hugo-Hunchback.jpg" title="Me" >}}
+
+---
+
 **_Currently, I am a PhD student in electrical engineering school at EPFL._**
 
 **_I am interested in biomedical engineering, signal and image processing, graph theory, connectomics, functional MRI and neuroscience._**
